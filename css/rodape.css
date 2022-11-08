@@ -112,7 +112,7 @@
     }
     
     .formulario__input-nome {
-        padding: 0 5em
+        padding-right: 0 10em;
     }
 
     
@@ -135,6 +135,10 @@
 
     .rodape__lista-item {
         margin: 0 0 2em 15em;
+    }
+
+    .formulario__input-nome {
+        padding-right: 0 20em;
     }
 
 }
